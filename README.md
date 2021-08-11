@@ -33,14 +33,14 @@ Users should be able to:
 
 ![](./screenshot.png)
 
-- On Desktop
+- On Mobile
 
 ![](./screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/arumdyaharum/FeM_faqAccordion)
+- Live Site URL: [GitHub Pages](https://arumdyaharum.github.io/FeM_faqAccordion/)
 
 ## My process
 
@@ -68,6 +68,6 @@ I want to practice my design skill using HTML and CSS. I still overwhelmed writi
 ## Author
 
 - Frontend Mentor - [@arumdyaharum](https://www.frontendmentor.io/profile/arumdyaharum)
-- Github - [@arumdyaharum](https://www.https://github.com/arumdyaharumm)
+- GitHub - [@arumdyaharum](https://www.https://github.com/arumdyaharumm)
 - Twitter - [@arumdyaharum](https://www.twitter.com/arumdyaharum)
 - Instagram - [@arumdyaharum](https://www.instagram.com/arumdyaharum)
